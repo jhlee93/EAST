@@ -1,0 +1,12 @@
+*.zip
+*.jpg
+*.png
+data/ocr/
+*.ckpt
+tmp/ch4_test_images/
+tmp/east_icdar2015_resnet_v1_50_rbox/
+tmp/images/
+tmp/images_car/
+tmp/mydata/
+tmp/mydata/
+tmp/output/
